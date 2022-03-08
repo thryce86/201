@@ -1,4 +1,12 @@
+Ask about:
+1. whats up with your site not showing
+2. how do i reference these tags without it actually performing some of these actions?
+
 # Main points I didn't know 
+
+
+
+- 
 - Tags are often referred to as elements.  Thought they were different things like elements , id ,etc.
 - Structural markup: the elements that you can use to describe both headings and paragraphs
 - Semantic markup: which provides extra information; such as where emphasis is placed in a sentence, that something you have written is a quotation (and who said it), the meaning of acronyms, and so on
@@ -14,7 +22,7 @@
 - *************** Classs can be given to multiple element types.  So if you want the same style on headers and links you can do that. " class1 class2" to define multiple.
 - Element is any type so header is not an element  but rather any html tag 
 - block elements <h1>, <p>, <ul>, and <li>.
-- inline <a>, <b>, <em>, and <img>.
+- inline "<a>, <b>, <em>, and <img>".
 - <span> is confusing but seems to be a way for us to use CSS?
 - iframes are what you use to add access to other apps like maps or a stock ticker
 - <meta>  this defines how search engines will treat the page
