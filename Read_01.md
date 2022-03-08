@@ -21,15 +21,15 @@ Ask about:
 - ********* Class is simply the same as OOP class.  You can affect all headers at once for example. But its not a primitive you could declare a SET OF HEADERS with class and affect it that way 
 - *************** Classs can be given to multiple element types.  So if you want the same style on headers and links you can do that. " class1 class2" to define multiple.
 - Element is any type so header is not an element  but rather any html tag 
-- block elements <h1>, <p>, <ul>, and <li>.
-- inline "<a>, <b>, <em>, and <img>".
-- <span> is confusing but seems to be a way for us to use CSS?
+- block elements `<h1>, <p>, <ul>, and <li>`.
+- inline `<a>, <b>, <em>, and <img>`.
+- `<span>` is confusing but seems to be a way for us to use CSS?
 - iframes are what you use to add access to other apps like maps or a stock ticker
-- <meta>  this defines how search engines will treat the page
+- `<meta>`  this defines how search engines will treat the page
 - You dont actually have to give the location of a block inside the page.  Just use id= for that block element 
-- Html 5 added <article> and <aside> to deal with content in the middle of the page so you can do more side to side work
-- Search engines seem to put more emphasis on the <article> region so if you have important content make sure to add it there   
-- Try not to use <div> but rather use the correctly designed tags. Still be careful if you need to do sth then don't just adhoc one of those tags in use the <div>.
+- Html 5 added `<article>` and `<aside>` to deal with content in the middle of the page so you can do more side to side work
+- Search engines seem to put more emphasis on the `<article>` region so if you have important content make sure to add it there   
+- Try not to use <div> but rather use the correctly designed tags. Still be careful if you need to do sth then don't just adhoc one of those tags in use the `<div>`.
 - Target the site. Think in terms of outcomes for the user. 
 - Make a site map and use card sorting. Site map is just a web diagram.
 - Wireframe is just a mock up of a page.
