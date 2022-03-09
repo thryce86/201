@@ -3,8 +3,8 @@
 
 ~~__Reading Notes__~~
 ---
-
-1. - [ ] PUT LINKS HERE?
+- [x] PUT LINKS HERE?
+1. 
 2.
 3.
 4.
