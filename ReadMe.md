@@ -2,11 +2,9 @@
 ---
 
 ~~__Reading Notes__~~
----
-- [x] PUT LINKS HERE?
----
 
-1. 
+
+1. works
 2.
 3.
 4.
@@ -21,3 +19,6 @@
 13.
 14.
 15.
+---
+- [x] PUT LINKS HERE?
+---
