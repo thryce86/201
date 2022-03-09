@@ -1,11 +1,11 @@
 # Code 201 Reading Notes
 ---
-
+`<h1>`
 ~~__Reading Notes__~~
+---
 
-
-1 . 
-2 .
+1. 
+2.
 3.
 4.
 5.
@@ -19,6 +19,4 @@
 13.
 14.
 15.
----
-- [x] PUT LINKS HERE?
----
+
