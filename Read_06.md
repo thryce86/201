@@ -1,4 +1,4 @@
-#Class 06
+# Class 06
 ## object literals
 - this.  to refernce the created obj
 - name : function() or value {}, such odd syntax 
