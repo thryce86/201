@@ -1,2 +1,15 @@
 #Class 06
-- 
+- this.  to refernce the created obj
+- name : function() or value {}, such odd syntax 
+- standard dot notation like python 
+- ![image](https://user-images.githubusercontent.com/100101108/158408248-3223cff9-7a90-4c0f-81ad-7090fe8901e2.png)
+- call the dot member operator
+- var hotel = {} to make an empty object 
+-   ![image](https://user-images.githubusercontent.com/100101108/158408784-04f8d8af-0b8f-4f04-81f6-76005692c72a.png)
+-![image](https://user-images.githubusercontent.com/100101108/158408819-60e7ed29-ab39-462d-a3f7-5d5e8f80c8ab.png)
+- way we will learn in 7 ![image](https://user-images.githubusercontent.com/100101108/158408867-d33569cf-f0e7-491e-8dea-a8a4ff193640.png)
+-constructors are the same as Java or python 
+-![image](https://user-images.githubusercontent.com/100101108/158409034-4edff03e-07a2-49a6-89a6-8e0aeef3867b.png)
+- you need to target the element you want to post to 
+- ![image](https://user-images.githubusercontent.com/100101108/158409144-d2221813-f87f-41dc-9a00-a8501034e1e6.png)
+-  pretty standard it doesnt talk about class variables though?
