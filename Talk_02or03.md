@@ -3,9 +3,15 @@
 ![image](https://user-images.githubusercontent.com/100101108/160187411-ba530b17-b224-4324-a550-7c0e8805ed4c.png)
 ![image](https://user-images.githubusercontent.com/100101108/160187538-dc810df0-b411-4f06-bc97-791ea5043607.png)
 ![image](https://user-images.githubusercontent.com/100101108/160187792-03fc0703-1647-4015-afb2-11e94586b50a.png)
-make sure that everything is on your profile 
+make sure that everything is on your profile  keywords only come from here 
 try to put things in your work experience 
 Conversion rate is 80k a year starting -> more 
+more you connect with higher you go in the list 
+because its only 1-3 connections so people cant see past that 
+add companies you are interested in 
+
+
+decline or accept if you decline then you should explain .   If you ignore you would not be contacted again 
 
 ![image](https://user-images.githubusercontent.com/100101108/160188498-1143c3ba-6c7e-40cf-8d77-ade6afe7078c.png)
 ![image](https://user-images.githubusercontent.com/100101108/160188747-64088dae-e81e-4e8f-8780-fec134667520.png)
@@ -33,3 +39,24 @@ company tag
 ![image](https://user-images.githubusercontent.com/100101108/160192052-aad5f399-c40a-4075-ba9f-715c898f528b.png)
 ![image](https://user-images.githubusercontent.com/100101108/160192122-6f662cb8-0845-4b3c-872f-f28965166c9d.png)
 ![image](https://user-images.githubusercontent.com/100101108/160192160-f9d43b02-0dc3-4419-9d4a-f464bea85ab6.png)
+![image](https://user-images.githubusercontent.com/100101108/160192283-6e084b45-d75e-4f0f-a926-bbab0c92c067.png)
+![image](https://user-images.githubusercontent.com/100101108/160192337-a4e6aee1-a966-4b30-a1a9-79d674e7c4f1.png)
+![image](https://user-images.githubusercontent.com/100101108/160192409-62d0527c-5840-4d9b-9f0e-632da9dd2046.png)
+
+
+![image](https://user-images.githubusercontent.com/100101108/160192479-e5729115-04ef-457e-90a3-06615b7e966f.png)\\![image](https://user-images.githubusercontent.com/100101108/160192558-b91e3c86-3dcd-40b6-8e5a-11f392e08d0a.png)
+
+
+![image](https://user-images.githubusercontent.com/100101108/160192644-404f54ee-f63c-411e-82d0-c07f9d2662d9.png)
+![image](https://user-images.githubusercontent.com/100101108/160193721-4496e4aa-0208-4121-9d9a-b7ba4332b01f.png)
+
+
+![image](https://user-images.githubusercontent.com/100101108/160194099-ca31d444-17e4-4cf4-b228-8b8287124b21.png)
+![image](https://user-images.githubusercontent.com/100101108/160194190-d17bd90b-8357-497c-9cb2-45dd05828e47.png)
+![image](https://user-images.githubusercontent.com/100101108/160194527-1409e819-2af2-4226-89e4-d4da10e26151.png)
+![image](https://user-images.githubusercontent.com/100101108/160194775-7fa85004-1398-4321-8b28-536e5689602a.png)
+![Uploading image.png…]()
+
+
+
+
